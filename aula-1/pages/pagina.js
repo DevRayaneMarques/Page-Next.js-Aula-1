@@ -7,7 +7,7 @@ const MinhaPagina = () => {
       <h1>Minha Página</h1>
       <p>Esta é a minha primeira página com Next.js!</p>
       <Link href="/outra-pagina">
-        <a>Ir para outra página</a>
+        Ir para outra página
       </Link>
     </div>
   );
